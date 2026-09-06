@@ -1,24 +1,9 @@
-# Python Port Scanner
+# Screenshots
 
-## Description
-This project is a basic TCP Port Scanner developed using Python's socket module.
+Add these screenshots after running the project:
 
-## Features
-- Scan TCP ports from 1 to 1024
-- Detect open ports
-- Uses socket programming
-- Beginner cybersecurity project
+1. `scanner-running.png` — terminal showing the command and scan start.
+2. `scan-result.png` — terminal showing detected open TCP ports.
 
-## Technologies
-- Python
-- Socket Module
-
-## Learning Outcomes
-- Socket Programming
-- TCP/IP Networking
-- Port Scanning
-- Network Security Basics
-
-## Run
-
-python port_scanner.py
+Use a local machine, localhost, or another explicitly authorized lab target.
+Do not upload sensitive IP addresses, usernames, hostnames, or internal infrastructure details.
